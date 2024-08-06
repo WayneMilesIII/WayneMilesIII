@@ -2,6 +2,7 @@
 
 <!--
 **WayneMilesIII/WayneMilesIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/d692d8f7-4df3-4ac3-84f3-1431632caa69)
 
 Here are some ideas to get you started:
 
