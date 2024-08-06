@@ -1,4 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 ## 🥳 Wayne Miles
+
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/12a160aa-b5dd-48ba-aa29-98c8d0b2c800)
 
 <p>Welcome to my GitHub! I'm an junior indie full-stack developer looking to participate in new challenges! All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm currently working on my passion game, "Anima-L", and finishing my Oracle Java Certificate. Right now, im learning about Godot 3/4 and Python, as I have an interest in AI and Cloud Computing.</p>
@@ -6,8 +13,7 @@
 ---
 
 <h2>🧰Languages and Tools🧰</h2>
-<ul>Java</ul>
-<ul>Python</ul>
+<ul>Java</ul><ul>Python</ul>
 <ul>C++</ul>
 <ul>HTML</ul>
 <ul>CSS</ul>
@@ -18,10 +24,9 @@
 
 <h2> 🛠 Recent Projects! </h2>
     <section id="projects" name="project_section">
-      <h2> Here are some of my projects </h2>
       <p> I hope you like them! <p>
       <div class="project-wrapper">
-        <div class="project-tile">
+<div class="project-tile">
           <a class="outside-link" href="https://codepen.io/WayneMilesIII/pen/XWYRNVw">
               <img src="https://shots.codepen.io/WayneMilesIII/pen/XWYRNVw-1280.jpg?version=1668201106">
           <p class="description">A Landing Page Project For Store Fronts!</p>
@@ -40,16 +45,16 @@
           <p class="description">A Project Made for Survey Forms!</p>
             </a>
         </div>
-        <div class="project-tile">
+<div class="project-tile">
           <a href="https://codepen.io/WayneMilesIII/pen/eYKWBMo">
               <img src="https://shots.codepen.io/WayneMilesIII/pen/eYKWBMo-1280.jpg?version=1668201476">
           <p class="description">A Project Made For A Tribute Page!</p>
           </a>
         </div>
-
         </div>
     </section>
 <h2>My Stats!</h2>
+
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneMilesIII)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
