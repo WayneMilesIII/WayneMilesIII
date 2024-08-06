@@ -1,6 +1,6 @@
-## 🥳 Wayne Miles
 
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/12a160aa-b5dd-48ba-aa29-98c8d0b2c800)
+
+## 🥳 Wayne Miles
 
 **`Digital Craftsman (Developer/Creator/Graphic Designer)`**
 
@@ -8,24 +8,21 @@
 
 ---
 
- <h2 align = "center"> 🧰Languages and Tools🧰 </h2>
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+## 🧰 Languages and Tools 🧰 
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+ <img align= "left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 <br>
-
+<br>
 <br>
 
-## 🛠 Recent Projects!
-
-<p> I hope you like them! <p>
-
-  
+## 🛠 Recent Projects! 🛠
+ 
   |Take a look!|Enjoy!|
   |----------|-----------|
   |<a class="outside-link" href="https://codepen.io/WayneMilesIII/pen/XWYRNVw"><img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/XWYRNVw-1280.jpg?version=1668201106"></a> | <a href="https://codepen.io/WayneMilesIII/pen/xxzdRWb"><p class="description"> <img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/PoambRJ-1280.jpg?version=1668201285"> </a> |
@@ -41,7 +38,7 @@
 <!--
 **WayneMilesIII/WayneMilesIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/d692d8f7-4df3-4ac3-84f3-1431632caa69)
-
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/12a160aa-b5dd-48ba-aa29-98c8d0b2c800)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
