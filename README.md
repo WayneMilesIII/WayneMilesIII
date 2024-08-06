@@ -25,7 +25,7 @@
  
   |Take a look!|Enjoy!|
   |----------|-----------|
-  |<a class="outside-link" href="https://codepen.io/WayneMilesIII/pen/XWYRNVw"><img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/XWYRNVw-1280.jpg?version=1668201106"></a> | <a href="https://codepen.io/WayneMilesIII/pen/xxzdRWb"><p class="description"> <img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/PoambRJ-1280.jpg?version=1668201285"> </a> |
+  |<a class="outside-link" href="https://codepen.io/WayneMilesIII/pen/XWYRNVw"><img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/XWYRNVw-1280.jpg?version=1668201106"></a> | <a href="https://codepen.io/WayneMilesIII/pen/xxzdRWb"><img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/PoambRJ-1280.jpg?version=1668201285"></a> |
   |<a href="https://codepen.io/WayneMilesIII/pen/xxzdRWb"> <img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/xxzdRWb-1280.jpg?version=1668201209"> </a> | <a href="https://codepen.io/WayneMilesIII/pen/eYKWBMo"><p class="description"> <img align= "left" alt="java" width="500px" src="https://shots.codepen.io/WayneMilesIII/pen/eYKWBMo-1280.jpg?version=1668201476"> </a> |
 
 
