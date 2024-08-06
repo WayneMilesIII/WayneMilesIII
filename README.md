@@ -16,7 +16,39 @@
 ---
 
 
-<h2> 🛠 Recent Projects!
+<h2> 🛠 Recent Projects! </h2>
+    <section id="projects" name="project_section">
+      <h2> Here are some of my projects </h2>
+      <p> I hope you like them! <p>
+      <div class="project-wrapper">
+        <div class="project-tile">
+          <a class="outside-link" href="https://codepen.io/WayneMilesIII/pen/XWYRNVw">
+              <img src="https://shots.codepen.io/WayneMilesIII/pen/XWYRNVw-1280.jpg?version=1668201106">
+          <p class="description">A Landing Page Project For Store Fronts!</p>
+          </a>
+        </div>
+
+<div class="project-tile">
+          <a href="https://codepen.io/WayneMilesIII/pen/XWYRNVw">
+              <img src="https://shots.codepen.io/WayneMilesIII/pen/PoambRJ-1280.jpg?version=1668201285">
+          <p class="description">A Project Made For JavaScript Documentation!</p>
+          </a>
+        </div>
+ <div class="project-tile">
+          <a href="https://codepen.io/WayneMilesIII/pen/xxzdRWb">
+              <img src="https://shots.codepen.io/WayneMilesIII/pen/xxzdRWb-1280.jpg?version=1668201209">
+          <p class="description">A Project Made for Survey Forms!</p>
+            </a>
+        </div>
+        <div class="project-tile">
+          <a href="https://codepen.io/WayneMilesIII/pen/eYKWBMo">
+              <img src="https://shots.codepen.io/WayneMilesIII/pen/eYKWBMo-1280.jpg?version=1668201476">
+          <p class="description">A Project Made For A Tribute Page!</p>
+          </a>
+        </div>
+
+        </div>
+    </section>
 <h2>My Stats!</h2>
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneMilesIII)](https://github.com/anuraghazra/github-readme-stats)
 
